@@ -1,6 +1,6 @@
 
 # Scrapper
-# UiPath Packages scraping in RPA
+# UiPath Packages scraping using RPA
 
 # Web scraping web harvesting, or web data extraction is data scraping used for extracting data from websites.
 
